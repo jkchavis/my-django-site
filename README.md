@@ -1,1 +1,1 @@
-# Creating MY First Website Using Django
+# Creating My First Website Using Django
